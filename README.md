@@ -21,5 +21,5 @@ A score is used to rank the choices; a low score signifying a good move for the 
 ### Optimal, and fastest
 Currently, when a bad move is played by the human, the AI plays any move that would lead it to win the game.
 Sometimes though, the move would make the AI win the game in 2 moves instead of winning the game immediately. Winning is assured but the faster win isn't taken into account.
-I plan on adding a secondary score that ranks faster wins over slower wins to allow the AI to play the optimal AND FASTER winning move.
+I plan on adding a secondary score that ranks faster wins over slower wins to allow the AI to play the optimal AND FASTER winning move!
 
