@@ -24,5 +24,5 @@ Sometimes though, the move would make the AI win the game in 2 moves instead of 
 I plan on adding a secondary score that ranks faster wins over slower wins to allow the AI to play the optimal AND FASTER winning move!
 
 ## Installing 
-Run pip3 install -r requirements.txt to install the required Python package (pygame) for the project. Then run Python3 runner.py to start the game
+Run `pip3 install -r requirements.txt` to install the required Python package (pygame) for the project. Then run `Python3 runner.py` to start the game
 
